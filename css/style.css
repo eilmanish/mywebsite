@@ -202,7 +202,7 @@ header .intro-text {
 }
 /* Features Section */
 #features {
-	padding: 120px 0;
+	padding: 120px 0 0 0;
 }
 #features .features-item {
 	margin: 0 20px;
@@ -294,7 +294,7 @@ header .intro-text {
 }
 /* Gallery Section */
 #gallery {
-	padding: 0;
+	padding: 120px 0 0 0;
 }
 #gallery .gallery-item {
 	margin: 0 -15px;
