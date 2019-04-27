@@ -86,7 +86,11 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .navbar .navbar-collapse {
 	text-align: center;
-	background-color: #262626 !important;
+}
+@media (max-width: 480px) {
+	.navbar .navbar-collapse {
+		background-color: #262626 !important;
+	}
 }
 #menu {
 	padding: 20px;
